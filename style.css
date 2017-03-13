@@ -1,0 +1,24 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color: #0971B2;
+}
+
+h3::first-letter{
+  color: #7F7E13;
+  font-size: 20px;
+}
+
+img{
+  width: 356px;
+}
+
+h1, h2, h3{
+  font-family: 'Indie Flower', cursive;
+}
+
+#samsonInfo{
+  width: 356px;
+  padding: 10px;
+  background-color: white;
+  border: 10px solid gray;
+}
